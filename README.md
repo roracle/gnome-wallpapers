@@ -1,6 +1,8 @@
 # Custom Wallpaper by roracle
 Light and Dark themes for various wallpapers created or found by myself or others.
 
+![They will show up as light and dark mode themes!](https://i.imgur.com/1zPZGh9.png "Appearance")
+
 XCF file is for GIMP 2.10
 
 ## Install:
